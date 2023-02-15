@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+}
+
+li {
+    border: solid 1px black;
+    width: 300px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    
+}
+
+li:hover {
+    background-color: rgb(79, 158, 132);
+}
